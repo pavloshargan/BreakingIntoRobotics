@@ -32,6 +32,11 @@ L298N ESC (10$) https://amzn.to/3Y2h7Ej <br>
    chmod +x start_car_control.sh
    ```
 
+   Install the pip modules:
+   ```
+   sudo python3 -m pip install pynput RPi.GPIO
+   ```
+
 3. **Add to Autostart**  
 The following way of adding the python script to autostart allows to see the console with the stdout which is more convinient than some cron job etc. <br> <br>
    Open the LXDE autostart file:
