@@ -10,7 +10,7 @@ L298N ESC (10$) https://amzn.to/3Y2h7Ej <br>
 # MouseRC Car Raspberry Pi Setup
 
 1. **Copy Source Code**  
-   Place `car_control.py` in the Desktop folder of your Raspberry Pi.
+   Place `car_control.py` from raspberry-pi folder of this repo in the Desktop folder of your Raspberry Pi.
 
 2. **Create a Shell Script to Run the Python Script**  
    Open the terminal and follow these steps:
@@ -46,4 +46,4 @@ The following way of adding the python script to autostart allows to see the con
    @lxterminal -e sudo sh /home/<your username>/Desktop/start_car_control.sh
    ```
 
-   Save the changes and exit the editor.
+   Save the changes and respart the Pi
