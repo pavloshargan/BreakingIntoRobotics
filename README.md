@@ -5,8 +5,8 @@ Tutorial on how to setup simple and cheap chassis for people who want to focus o
 
 [![40$ Mouse controlled car](https://img.youtube.com/vi/a_QKCKZybW4/0.jpg)](https://www.youtube.com/watch?v=a_QKCKZybW4)
 
-
-Amazon car (21$) https://amzn.to/3Y2h7Ej <br>
+![Wiring Schematics](schematics.png)
+Amazon car (21$) https://amzn.to/3BGK7dr <br>
 L298N ESC (10$) https://amzn.to/3Y2h7Ej <br>
 5V to 12V converter (8$) https://amzn.to/4dDVYGo <br>
 
