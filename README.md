@@ -1,7 +1,4 @@
 # BreakingIntoRobotics
-Tutorial on how to setup simple and cheap chassis for people who want to focus on the algorithm side of things and not on hardware itself. The focus was made on simplicity
-
-
 
 [![40$ Mouse controlled car](https://img.youtube.com/vi/a_QKCKZybW4/0.jpg)](https://www.youtube.com/watch?v=a_QKCKZybW4)
 
