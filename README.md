@@ -1,7 +1,8 @@
 # BreakingIntoRobotics
 Tutorial on how to setup simple and cheap chassis for people who want to focus on the algorithm side of things and not on hardware itself. The focus was made on simplicity
 
-https://www.youtube.com/watch?v=a_QKCKZybW4
+
+[https://www.youtube.com/watch?v=a_QKCKZybW4](https://www.youtube.com/watch?v=a_QKCKZybW4)
 
 Amazon car (21$) https://amzn.to/3Y2h7Ej <br>
 L298N ESC (10$) https://amzn.to/3Y2h7Ej <br>
